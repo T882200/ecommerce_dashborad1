@@ -1,12 +1,9 @@
 # Online Retail Dashboard using React, FusionCharts, Google Sheets & Boostrap
 
-[**Blog Link**](https://scotch.io/tutorials/building-an-online-retail-dashboard-in-react)
 
 **Steps to run the project**:
 1. After cloning the repository, use `npm install` to install all the dependencies needed.
 2. Run `npm start` to run project in development server. (Refer to more scripts mentioned below)
-
-If you have any more questions, raise an [issue](https://github.com/sikrigagan/saas-dashboard-gsheetsapi-react/issues) or yell at [me on Twitter](https://twitter.com/sikrigagan).
 
 ---
 
